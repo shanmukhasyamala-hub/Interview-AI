@@ -1,0 +1,6 @@
+{
+  "name": "InterviewVerse AI",
+  "description": "Enterprise-grade AI mock interview platform featuring real-time eye tracking, voice metrics, resume coaching, and competitor benchmarking dashboards.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
