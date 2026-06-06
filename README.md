@@ -1,8 +1,6 @@
 # 🚀 InterviewVerse AI
 
-<div align="center">
 
-![InterviewVerse AI Logo](public/logo.png)
 
 ### Master Every Interview Before It Matters
 
